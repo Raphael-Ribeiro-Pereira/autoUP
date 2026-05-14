@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# API Keys (IMPORTANTE!)
+*.env
+
+# Arquivos gerados
+resultados_upgrades.csv
+relatorio.html

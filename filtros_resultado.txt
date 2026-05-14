@@ -1,0 +1,42 @@
+=== FILTRO: Peças de Motor ===
+                               peca categoria complexidade  preco
+2             Intake de ar frio K&N     Motor        Baixa    800
+3      Swap de motor R18 para K20Z1     Motor         Alta   8000
+6             Escapamento Injen SES     Motor        Baixa   1200
+7       Turbocompressor Garrett GTX     Motor         Alta   7500
+8              Intercooler alumínio     Motor        Baixa   2000
+11       Câmbio Quaife Limited-Slip     Motor        Baixa   2500
+12        Correia Timing Reinforced     Motor        Baixa    400
+13                Velas NGK Iridium     Motor        Baixa    200
+14                  Óleo Motul 300V     Motor        Baixa    150
+15             Radiador de alumínio     Motor        Baixa   1800
+16      Bomba de combustível Walbro     Motor        Baixa    600
+17     Bicos injetores Deatschwerks     Motor        Baixa   1200
+26  Correntes de distribuição Dayco     Motor        Baixa    300
+27           Bloco do motor forjado     Motor        Baixa  12000
+28      Pistões forjados JE Pistons     Motor        Baixa   3000
+29                  Bielas Carrillo     Motor        Baixa   2500
+
+=== FILTRO: Peças com Complexidade Alta ===
+                           peca complexidade  preco
+3  Swap de motor R18 para K20Z1         Alta   8000
+7   Turbocompressor Garrett GTX         Alta   7500
+
+=== FILTRO: Peças baratas (menos de 2000) ===
+                                     peca  preco     categoria
+0   Pneus Semi-slick Michelin Pilot Sport   1500     Suspensão
+2                   Intake de ar frio K&N    800         Motor
+6                   Escapamento Injen SES   1200         Motor
+12              Correia Timing Reinforced    400         Motor
+13                      Velas NGK Iridium    200         Motor
+14                        Óleo Motul 300V    150         Motor
+15                   Radiador de alumínio   1800         Motor
+16            Bomba de combustível Walbro    600         Motor
+17           Bicos injetores Deatschwerks   1200         Motor
+19              Barras estabilizadora H&R    900     Suspensão
+20                 Discos de freio Brembo   1500        Freios
+21              Pastilhas de freio Ferodo    400        Freios
+22                Cilindro mestre Wilwood    800        Freios
+23                Spoiler dianteiro Mugen   1200  Aerodinâmica
+24                Difusor traseiro Seibon   1800  Aerodinâmica
+26        Correntes de distribuição Dayco    300         Motor
