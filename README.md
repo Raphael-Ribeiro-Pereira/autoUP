@@ -56,8 +56,13 @@ python main.py
 
 ## 🎯 Autor
 
-[Seu Nome]
+Raphael Ribeiro Pereira
+
+## 📝 Licença
+## 🎯 Autor
+
+Raphael Ribeiro Pereira
 
 ## 📝 Licença
 
-MIT 
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes. 
