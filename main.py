@@ -1,9 +1,15 @@
 import pandas as pd
 import os
 from google import genai
+from dotenv import load_dotenv
 
-# ===== CONFIGURAÇÃO =====
-api_key = os.getenv("GOOGLE_API_KEY", "AIzaSyAqsDlzOWYD_2u_NTE8xYf_1A6fCvQhDyo")
+load_dotenv()  
+
+api_key = os.getenv("GOOGLE_API_KEY")
+if not api_key:
+    print("❌ ERRO: Configure a variável GOOGLE_API_KEY no arquivo .env")
+    exit()
+
 os.environ["GOOGLE_API_KEY"] = api_key
 
 client = genai.Client()

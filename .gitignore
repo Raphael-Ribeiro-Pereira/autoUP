@@ -12,8 +12,9 @@ venv/
 .idea/
 *.swp
 
-# API Keys (IMPORTANTE!)
-*.env
+# Environment
+.env
+.env.local
 
 # Arquivos gerados
 resultados_upgrades.csv
